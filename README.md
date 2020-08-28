@@ -1,5 +1,7 @@
 ### Hi [Navis Code][website] here 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/NavisCode?color=1DA1F2&label=NavisCode&logo=twitter&style=for-the-badge)](https://twitter.com/NavisCode)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
