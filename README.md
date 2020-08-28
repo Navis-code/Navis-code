@@ -56,6 +56,11 @@
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
+- [Carrito de compras con javascript (descarga de proyecto gratis)](https://www.youtube.com/watch?v=dSbWJAXQ7cA)
+- [Git que es y para que sirve (descarga de diapositiva gratis)](https://www.youtube.com/watch?v=-q7221V6Elk)
+- [Como instalar bootstrap 4 desde cero | Setup del proyecto](https://www.youtube.com/watch?v=uwj1d8DNUJw)
+- [pagina web con bootstrap 2020 (descarga gratis) - pagina web responsive](https://www.youtube.com/watch?v=cS-m4xDwcwo)
+- [programar php interesa aprender php en 2020 (El porvenir de PHP7)](https://www.youtube.com/watch?v=_RQWCnt4M7s)
 <!-- YT:END -->
 
 <!-- LINKS -->
