@@ -49,6 +49,13 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+### 🎥 Last YT videos
+
+<!-- YT:START -->
+<!-- YT:END -->
+
 <!-- LINKS -->
 
 [website]: https://naviscode.com/
