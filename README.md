@@ -58,7 +58,6 @@
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
-
 - [Carrito de compras con javascript (descarga de proyecto gratis)](https://www.youtube.com/watch?v=dSbWJAXQ7cA)
 - [Git que es y para que sirve (descarga de diapositiva gratis)](https://www.youtube.com/watch?v=-q7221V6Elk)
 - [Como instalar bootstrap 4 desde cero | Setup del proyecto](https://www.youtube.com/watch?v=uwj1d8DNUJw)
