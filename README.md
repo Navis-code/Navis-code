@@ -44,6 +44,11 @@
 
 ---
 
+### 📘 Last posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- LINKS -->
 
 [website]: https://naviscode.com/
