@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**Navis-code/Navis-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi [Navis Code][website] here 👋
 
 Here are some ideas to get you started:
 
@@ -12,3 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!-- LINKS -->
+
+[website]: https://naviscode.com/
