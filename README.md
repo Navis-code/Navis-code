@@ -47,6 +47,7 @@
 ### 📘 Last posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [5 pasos para convertirme en desarrollador web profesional desde cero](https://blog.naviscode.com/5-pasos-para-convertirme-en-desarrollador-web-profesional-desde-cero/)
 - [Bienvenida al blog, aprende desarrollo web](https://blog.naviscode.com/bienvenida-al-blog-aprende-desarrollo-web/)
 <!-- BLOG-POST-LIST:END -->
@@ -57,6 +58,10 @@
 
 <!-- YT:START -->
 <!-- YT:END -->
+
+### 🎧 Spotify Playing
+
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
 
 <!-- LINKS -->
 
