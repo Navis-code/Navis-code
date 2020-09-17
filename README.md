@@ -58,11 +58,11 @@
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
+- [6 Metodos array javascript con superpoderes (descarga pdf gratis)](https://www.youtube.com/watch?v=5qUDKrQXBeg)
 - [Como mejorar tu código de junior a senior en 3 pasos](https://www.youtube.com/watch?v=O5Vkz2ZIQUI)
 - [Aprende esto antes del framework de javascript](https://www.youtube.com/watch?v=C1mClKuvEVg)
 - [Readme github tutorial paso a paso | conecta spotify, últimos posts...](https://www.youtube.com/watch?v=P9Dp8-i6bww)
 - [Carrito de compras con javascript (descarga de proyecto gratis)](https://www.youtube.com/watch?v=dSbWJAXQ7cA)
-- [Git que es y para que sirve (descarga de diapositiva gratis)](https://www.youtube.com/watch?v=-q7221V6Elk)
 <!-- YT:END -->
 
 ➡️ [More videos...][yt]
