@@ -59,11 +59,11 @@
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
+- [Node js tutorial español carrito de compras (descarga gratuita)](https://www.youtube.com/watch?v=Pri0AHpLQA0)
 - [Que es json en 10 minutos, lo que necesitas saber (descarga pdf gratis)](https://www.youtube.com/watch?v=nIctNyBGQcE)
 - [6 Metodos array javascript con superpoderes (descarga pdf gratis)](https://www.youtube.com/watch?v=5qUDKrQXBeg)
 - [Como mejorar tu código de junior a senior en 3 pasos](https://www.youtube.com/watch?v=O5Vkz2ZIQUI)
 - [Aprende esto antes del framework de javascript](https://www.youtube.com/watch?v=C1mClKuvEVg)
-- [Readme github tutorial paso a paso | conecta spotify, últimos posts...](https://www.youtube.com/watch?v=P9Dp8-i6bww)
 <!-- YT:END -->
 
 ➡️ [More videos...][yt]
