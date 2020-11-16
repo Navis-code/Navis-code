@@ -59,11 +59,11 @@
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
+- [Tutorial angular en español desde cero, aprende 🅰ngular sin conocimiento previo](https://www.youtube.com/watch?v=vGF5RdpsyWU)
 - [Herramientas para buscar errores de programacion](https://www.youtube.com/watch?v=eQvbbANz-5c)
 - [Node js tutorial español carrito de compras (descarga gratuita)](https://www.youtube.com/watch?v=Pri0AHpLQA0)
 - [Que es json en 10 minutos, lo que necesitas saber (descarga pdf gratis)](https://www.youtube.com/watch?v=nIctNyBGQcE)
 - [6 Metodos array javascript con superpoderes (descarga pdf gratis)](https://www.youtube.com/watch?v=5qUDKrQXBeg)
-- [Como mejorar tu código de junior a senior en 3 pasos](https://www.youtube.com/watch?v=O5Vkz2ZIQUI)
 <!-- YT:END -->
 
 ➡️ [More videos...][yt]
