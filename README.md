@@ -44,18 +44,6 @@
 
 ---
 
-### 📘 Last posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Como aprender desarrollo web y que camino escoger](https://blog.naviscode.com/como-aprender-desarrollo-web-y-que-camino-escoger/)
-- [5 pasos para convertirme en desarrollador web profesional desde cero](https://blog.naviscode.com/5-pasos-para-convertirme-en-desarrollador-web-profesional-desde-cero/)
-- [Bienvenida al blog, aprende desarrollo web](https://blog.naviscode.com/bienvenida-al-blog-aprende-desarrollo-web/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More posts...][blog]
-
----
-
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
