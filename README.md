@@ -1,7 +1,6 @@
 ### Hi [Navis Code][website] here 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NavisCode?color=1DA1F2&label=NavisCode&logo=twitter&style=for-the-badge)](https://twitter.com/NavisCode)
-[<img src="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">][website]
 
 ### 💻 Web Developer 🌱Father and Vegan
 
@@ -47,6 +46,7 @@
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
+
 - [Lazy loading consigue +90 en performance (como usarlo fácil en 2021)](https://www.youtube.com/watch?v=9ZiVYdwnXIQ)
 - [Validar formulario con javascript (descarga gratuita)](https://www.youtube.com/watch?v=OwdYwteGt2U)
 - [Web de recursos de programacion gratis](https://www.youtube.com/watch?v=ylzOJT-PVzw)
