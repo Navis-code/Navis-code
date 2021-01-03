@@ -46,7 +46,6 @@
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
-
 - [Lazy loading consigue +90 en performance (como usarlo fácil en 2021)](https://www.youtube.com/watch?v=9ZiVYdwnXIQ)
 - [Validar formulario con javascript (descarga gratuita)](https://www.youtube.com/watch?v=OwdYwteGt2U)
 - [Web de recursos de programacion gratis](https://www.youtube.com/watch?v=ylzOJT-PVzw)
