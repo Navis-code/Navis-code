@@ -46,11 +46,11 @@
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
+- [Efectos 3D con JavaScript vanilla paso a paso + Descarga gratuita [2021]](https://www.youtube.com/watch?v=8F3_hzopNic)
 - [Como ganar dinero con Html y Css [2021]](https://www.youtube.com/watch?v=QXfti2KnS7Y)
 - [javascript funciones flecha [2021]](https://www.youtube.com/watch?v=m9PsxIAPFzM)
 - [Lazy loading consigue +90 en performance (como usarlo fácil en 2021)](https://www.youtube.com/watch?v=9ZiVYdwnXIQ)
 - [Validar formulario con javascript (descarga gratuita)](https://www.youtube.com/watch?v=OwdYwteGt2U)
-- [Web de recursos de programacion gratis](https://www.youtube.com/watch?v=ylzOJT-PVzw)
 <!-- YT:END -->
 
 ➡️ [More videos...][yt]
