@@ -46,11 +46,11 @@
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
+- [Como funciona JavaScript, event loop, call stack, task queue [Descarga PDF gratuita]](https://www.youtube.com/watch?v=kBVPVO0-icw)
 - [JavaScript vs TypeScript diferencias en código [Typescript 2021]](https://www.youtube.com/watch?v=4kB3A3RZCBY)
 - [Como usar una IA para ayudarte a programar GRATIS [2021]](https://www.youtube.com/watch?v=0edR-_2BEzQ)
 - [5 conceptos importantes en JavaScript que te ayudaran a conseguir trabajo](https://www.youtube.com/watch?v=bKGSgiX-yMk)
 - [Trucos y consejos para google chrome [sin usar extensiones]](https://www.youtube.com/watch?v=pgbux8gcmaU)
-- [Efectos 3D con JavaScript vanilla paso a paso + Descarga gratuita [2021]](https://www.youtube.com/watch?v=8F3_hzopNic)
 <!-- YT:END -->
 
 ➡️ [More videos...][yt]
