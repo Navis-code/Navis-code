@@ -46,11 +46,11 @@
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
+- [Dónde encontrar empleo IT [2021]](https://www.youtube.com/watch?v=jnlEyGCiXqU)
 - [Como gano dinero vendiendo webs [2021] Cuanto cobrar, que hosting y que stack](https://www.youtube.com/watch?v=OTyGQEY8HEQ)
 - [10 apis gratuitas para practicar](https://www.youtube.com/watch?v=69rsTdke5fA)
 - [Como funciona JavaScript, event loop, call stack, task queue [Descarga PDF gratuita]](https://www.youtube.com/watch?v=kBVPVO0-icw)
 - [JavaScript vs TypeScript diferencias en código [Typescript 2021]](https://www.youtube.com/watch?v=4kB3A3RZCBY)
-- [Como usar una IA para ayudarte a programar GRATIS [2021]](https://www.youtube.com/watch?v=0edR-_2BEzQ)
 <!-- YT:END -->
 
 ➡️ [More videos...][yt]
