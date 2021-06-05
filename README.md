@@ -46,11 +46,11 @@
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
+- [Oferta 24horas 🔥 - lanzamiento ebook linkedin](https://www.youtube.com/watch?v=6vCErxF4mrc)
 - [Test de insignia de JavaScript para Linkedin | No sé ni importar una librería 🤣](https://www.youtube.com/watch?v=nmvL2MphaJE)
 - [Dónde encontrar empleo IT [2021]](https://www.youtube.com/watch?v=jnlEyGCiXqU)
 - [Como gano dinero vendiendo webs [2021] Cuanto cobrar, que hosting y que stack](https://www.youtube.com/watch?v=OTyGQEY8HEQ)
 - [10 apis gratuitas para practicar](https://www.youtube.com/watch?v=69rsTdke5fA)
-- [Como funciona JavaScript, event loop, call stack, task queue [Descarga PDF gratuita]](https://www.youtube.com/watch?v=kBVPVO0-icw)
 <!-- YT:END -->
 
 ➡️ [More videos...][yt]
